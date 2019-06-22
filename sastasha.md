@@ -34,4 +34,6 @@ If this is your first ever Duty Finder party, congratulations! You finished your
 
 Look in the room to the side of the initial approach to find one of three random colors printed on an interactable. This references which of the three colored Coral Triggers you need to summon the first boss and reveal the exit door. Selecting the wrong Coral Trigger will spawn an additional enemy encounter.
 
+Early in the dungeon you will encounter Giant Clams that will continually spawn Shade Seeker adds until they are destroyed. Keep in mind that when the Giant Clam is closed it will be invulnerable.
+
 This dungeon has many optional rooms and halls that most groups will bypass for efficiency. If you don't have the exploration achievement for this dungeon feel free to ask your group if they'd be willing to do a full clear!
