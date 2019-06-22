@@ -6,7 +6,7 @@ subtitle: Yo Ho Yo Ho You'll Sure Be Here Alot!
 
 ## Chopper
 
-**Tank/DPS:** Chopper will occasionally drop a PBAoE around itself. Step out as necessary.
+**Tank/Melee DPS:** Chopper will occasionally drop a PBAoE around itself. Step out as necessary.
 
 ## Captain Madison (Part One)
 
