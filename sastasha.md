@@ -12,7 +12,7 @@ Chopper just drops AoE's from time to time. Dodge, win, loot.
 
 The first Madison fight has two adds. When the Captain runs away finish the adds and move on.
 
-## Captain Madison (Part Two)
+## Captain Madison (Part Two)<br>
 
 #### **Tank:**<br>
 When Madison hits 50% HP he will summon adds from the side of the room. Keep alert for them and grab them ASAP.
