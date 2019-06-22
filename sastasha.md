@@ -26,7 +26,7 @@ The arena has four interactable grates that will periodically begin to bubble. I
 
 If this is your first ever Duty Finder party, congratulations! You finished your first dungeon in Final Fantasy XIV! You'll probably be back here quite a few times in your future roulettes.
 
-### General Dungeon Tips
+### *General Dungeon Tips*
 
 Look in the room to the side of the initial approach to find one of three random colors printed on an interactable. This references which of the three colored Coral Triggers you need to summon the first boss and reveal the exit door. Selecting the wrong Coral Trigger will spawn an additional enemy encounter.
 
