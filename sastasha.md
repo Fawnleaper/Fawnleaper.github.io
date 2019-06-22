@@ -14,7 +14,8 @@ The first Madison fight has two adds. When the Captain runs away finish the adds
 
 ## Captain Madison (Part Two)
 
-#### **Tank:** When Madison hits 50% HP he will summon adds from the side of the room. Keep alert for them and grab them ASAP.
+#### **Tank:**<br>
+When Madison hits 50% HP he will summon adds from the side of the room. Keep alert for them and grab them ASAP.
 
 ## Denn the Orcatoothed
 
