@@ -23,12 +23,11 @@ Keep alert for the dogs and grab them ASAP.
 
 The arena has four interactable grates that will periodically begin to bubble. Interacting with the bubbling grate will prevent an add from spawning.
 
-#### **Tank**<br> 
----
+#### **Tank:**
 If adds spawn grab them ASAP.<br>
-#### **Healer:**<br>
+#### **Healer:**
 If adds spawn and leash you, run them towards the tank to get them peeled off.<br>
-#### **DD:**<br>
+#### **DD:**
 Add spawns can spiral out of control depending on how fast the boss is getting burned down. Make sure to target them before things get too much for your tank and healer!
 
 If this is your first ever Duty Finder party, congratulations! You finished your first dungeon in Final Fantasy XIV! You'll probably be back here quite a few times in your future roulettes.
