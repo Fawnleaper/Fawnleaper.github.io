@@ -23,7 +23,8 @@ Keep alert for the dogs and grab them ASAP.
 
 The arena has four interactable grates that will periodically begin to bubble. Interacting with the bubbling grate will prevent an add from spawning.
 
-#### **Tank:**<br> 
+#### **Tank**<br> 
+---
 If adds spawn grab them ASAP.<br>
 #### **Healer:**<br>
 If adds spawn and leash you, run them towards the tank to get them peeled off.<br>
