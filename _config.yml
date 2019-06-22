@@ -30,7 +30,7 @@ navbar-links:
     - The Next One: "http://www.markdowntutorial.com/"
     
   Stormblood:
-  	- The Sirensong Sea:
+    - The Sirensong Sea:
     - Shisui of The Violet Tides:
 
 # Image to show in the navigation bar - image must be a square (width = height)
