@@ -18,8 +18,7 @@ When the Blasting Cap spawns grab it but don't kill it, keep it close to the bos
 
 **Healer:** Watch out for aggro when adds spawn. Try not to get caught in the Blasting Cap's explosion.
 
-**DPS:**
-* Do NOT damage the Blasting Cap add. If it dies prematurely it will NOT explode making the fight go on even longer.  
+**DPS:** * Do NOT damage the Blasting Cap add. If it dies prematurely it will NOT explode making the fight go on even longer.  
 * Switch focus to the spriggan that spawns later in the fight. It will try to destroy the Blasting Cap.  
 * Once the boss has been exploded three times and is in eight pieces AoE like mad until the fight is over.
 
