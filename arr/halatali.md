@@ -41,9 +41,6 @@ The Guivre will occasionally run to the center of the water and electrify it whi
 
 ### *General Dungeon Tips*
 
-**Tank/Healer:** 
 * The snake mobs in this dungeon can do a wicked spicy hit, especially at lower levels.
-
-
 * As you proceed through Halatali you'll need to activate five Chain Winch interactables. Pulling one can randomly spawn elementals, a bomb monster, or nothing at all.
 * This dungeon has a fun optional chest towards the end on the other side of an empty platform. Heading towards it will spawn a surprise enemy. Great for a fun prank!
