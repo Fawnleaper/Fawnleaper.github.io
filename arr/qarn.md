@@ -59,5 +59,5 @@ subtitle: NOT THE BEES!!!
   * The Vault of Secrets - Fruit of Knowledge
   * The Vault of Aether - Flame of Magic
   * The Scales of Judgment - Flame on the left, Fruit on the right, tip scales.
- * After the first boss the stone head enemies will need to be killed while on top of glowing plates to prevent them coming back to life.
-  * Positioning for them can be fiddly so make sure aggro isn't all over the place.
+* After the first boss the stone head enemies will need to be killed while on top of glowing plates to prevent them coming back to life.
+ * Positioning for them can be fiddly so make sure aggro isn't all over the place.
