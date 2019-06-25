@@ -16,6 +16,8 @@ subtitle: Welcome, foolish mortals...
 
 **NOTE:** The boss drops a key that unlocks a door to the next section. That door will be back through the entrace of the room, back the way you came.
 
+---
+
 ## Manor Jester & Manor Steward
 
 The Manor Steward is a melee enemy with a PBAoE and the Manor Jester is a ranged spellcaster. It is recommended to focus the Jester first.
@@ -28,6 +30,8 @@ The Manor Steward is a melee enemy with a PBAoE and the Manor Jester is a ranged
 * Watch out for the PBAoE
 
 **NOTE:** This encounter drops a Bloody Parchment which will unlock the barrier back at the start of the dungeon... Which is where you want to go next. Use your Return skill to instantly return to the start of the manor.
+
+---
 
 ## Lady Amandine
 
@@ -47,6 +51,8 @@ This encounter has plenty to do.
 **DPS:** 
 * Switch focus to Lamps as a priority, then adds. 
 * Make sure not to waste attacks on Amandine when she becomes invulnerable during the last add phase.
+
+---
 
 ### *General Dungeon Tips*
 
