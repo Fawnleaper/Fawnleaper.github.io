@@ -9,6 +9,8 @@ subtitle: Low Entry Orb-it
 **Tank:** 
 * The Soulcounter will spawn in front of the Cultist Orb when the Priest is defeated. Be ready to grab it before it eats your healer!
 
+---
+
 ## Galvanth The Dominator
 * Galvanth will summon adds throughout the fight. Some of them will make him invulnerable until they are defeated (as indicated by energy tethers).
 
@@ -23,6 +25,8 @@ subtitle: Low Entry Orb-it
 **DPS:** 
 * Switch focus to the Imps that provide Galvanth's invulnerable status. 
 * Watch your toes when he casts his PBAoE Paralyze.
+
+---
 
 ### *General Dungeon Tips*
 * This dungeon has a few optional side rooms with treasure chests.
