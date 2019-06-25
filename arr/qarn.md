@@ -24,6 +24,8 @@ subtitle: NOT THE BEES!!!
 * Switch focus to Wespes ASAP to avoid losing anyone to Final Sting.
 * Avoid Frightful Roar.
 
+---
+
 ## Temple Guardian
 
 * The Golem Soulstone must be destroyed to initiate the damage phase.
@@ -38,6 +40,8 @@ subtitle: NOT THE BEES!!!
 * Focus damage on the Golem Soulstone whenever it appears.
 * Save cooldowns for the damage phase to minimize the number of cycles needed.
 
+---
+
 ## Adjudicator
 
 * Darkness - Frontal Cone AoE w/ Blind
@@ -47,7 +51,8 @@ subtitle: NOT THE BEES!!!
 * Summons Mithril Verges which should be destroyed ASAP
   * Summons black spaces which will become walled off shortly after appearing. 
     * Players should enter these spaces before they are locked out in order to destroy the Verge that spawns inside.
-
+    
+---
 
 ### *General Dungeon Tips*
 
