@@ -14,6 +14,8 @@ Periodically Firemane will summon wisp adds from different parts of the room. If
 **DPS:** 
 * When the fire light in the room gets brighter adds will begin to float in. Switch priority to damaging these to avoid excess group damage.
 
+---
+
 ## Thunderclap Guivre
 
 The Guivre will occasionally run to the center of the water and electrify it while summoning elemental adds. Once the adds are defeated you can reposition it again.
@@ -23,6 +25,8 @@ The Guivre will occasionally run to the center of the water and electrify it whi
 
 **DPS:** 
 * Switch focus to the elementals during the intermission phases.
+
+---
 
 ## Tangata
 
@@ -38,6 +42,8 @@ The Guivre will occasionally run to the center of the water and electrify it whi
 
 **DPS:** 
 * Prioritize adds, just like with Firemane.
+
+---
 
 ### *General Dungeon Tips*
 
