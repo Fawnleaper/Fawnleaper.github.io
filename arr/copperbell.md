@@ -8,6 +8,8 @@ subtitle: Little known fact... The last boss has mechanics!
 
 This encounter opens with a gauntlet of adds that can be easily burned down. Eventually Kottos himself will spawn but will go down just as easily.
 
+---
+
 ## Ichorous Ire
 
 The Ichorous Ire is nearly invincible until damaged three times by a Blasting Cap which can be spawned by using the "Improved Blasting Device". 
@@ -25,6 +27,8 @@ After the third successful detonation the boss can be quickly defeated.
 * Switch focus to the spriggan that spawns later in the fight. It will try to destroy the Blasting Cap.  
 * Once the boss has been exploded three times and is in eight pieces AoE like mad until the fight is over.
 
+---
+
 ## Gyges the Great
 
 Gyges will move to break open a wall early in the encounter. Once the wall is broken an add will spawn and run to another wall to do break IT open. If it is not killed before doing so another add will spawn.
@@ -34,6 +38,8 @@ Gyges will move to break open a wall early in the encounter. Once the wall is br
 
 **DPS:** 
 * Adds attacking the walls will be fixated on attacking said wall so you can DPS without fear of pulling aggro.
+
+---
 
 ### *General Dungeon Tips*
 
