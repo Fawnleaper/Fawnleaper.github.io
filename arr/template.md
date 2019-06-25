@@ -9,7 +9,9 @@ subtitle: A Witty Subtitle
 General boss info.
 
 **Tank:** Tank Tips
+
 **Healer:** Healer Tips
+
 **DPS:** DPS Tips
 
 ### *General Dungeon Tips*
