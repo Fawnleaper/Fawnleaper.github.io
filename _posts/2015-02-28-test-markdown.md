@@ -1,74 +1,22 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Welcome!
+subtitle: Thanks for checking this out!
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Welcome to the... Let's say "Alpha" of this little project. Duty Commenced (The Yolodex) is an idea I've had bounding around in my head for years. The concept initially was to create for myself a little desk rolodex with reminders about mechanics for all the dungeons in Final Fantasy XIV. There are so many, after all, and sometimes Duty Roulette throws you one that you haven't done in a very, very long time.
 
-**Here is some bold text**
+Of course there are other resources out there: Wikis and videos and such... But I've found that, personally, the wikis tend to be bloated and hard to pull up on, say, a mobile browser and videos, as good as they are, take more than a glance to consume. 
 
-## Here is a secondary heading
+Eventually my desktop rolodex evolved into "Why don't I make a very simple website that is mobile friendly and easy to access one handed while you're prepping a run?"
 
-Here's a useless table:
+This is how this little project came to be.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+I will be perfectly happy if, when complete, this only serves as a tool for myself personally BUT I would be over the moon if the FFXIV community got some use out of this as well.
 
+If you're looking at this right now chances are you're a personal friend and/or a contributor to the project. I'll be adding dungeons when I have time to do so and hope to have it current (at least for 4-man Duties) within the next few months. Of course we're mere days from 5.0 launching so that will add to the workload a bit...
 
-How about a yummy crepe?
+So thank you for checking this out and if you have any comments or suggestions please let me know!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+-Kokola Kola (Coeurl)
