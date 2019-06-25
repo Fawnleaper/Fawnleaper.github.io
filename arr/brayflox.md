@@ -16,6 +16,8 @@ subtitle: Brayflox is best waifu don't @ me.
 **DPS:** 
 * Manage adds when they appear
 
+---
+
 ## Inferno Drake
 
 **Tank:**
@@ -26,6 +28,8 @@ subtitle: Brayflox is best waifu don't @ me.
 **Healer/DPS:** 
 * When Brayflox steals aggro from the boss watch where you're standing and avoid the boss's cleave
 
+---
+
 ## Hellbender
 
 **Tank:** 
@@ -34,6 +38,8 @@ subtitle: Brayflox is best waifu don't @ me.
 **DPS:**
 * Party members will be targeted by and CC'ed in bubbles that can be damaged to free the captured player.
 * Switch focus to Aiatar after the tank grabs it.
+
+---
 
 ## Aiatar
 
@@ -50,6 +56,8 @@ Aiatar has two major mechanics.
 
 **DPS:**
 * Watch out for the Toxic Vomit cast and take care not to drop it on the party or Aiatar.
+
+---
 
 ### *General Dungeon Tips*
 
